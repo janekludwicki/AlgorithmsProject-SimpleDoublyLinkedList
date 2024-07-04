@@ -1,2 +1,2 @@
-# AlgorithmsProject2
-Second project that I have done for "Algorithms and Data Structures" course.
+# Doubly-Linked-List
+Simple implementation of a doubly Linked List concept. 
